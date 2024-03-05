@@ -33,6 +33,21 @@ After installing the project, follow these steps to run the financial calculator
 3.Follow the prompts to input the required financial information.
 4.View the calculated results.
 
+**ScreenShots**
+
+**Screenshot of the Investment Calculator based on SimpleInterest and CompundInterest in action**
+
+
+![image](https://github.com/sridan/FinanceCalculator/assets/154027925/728cb590-6f1e-4ca7-adc0-b1f4b66e61a4)
+
+**Screenshot of the Home Loan Repayment Calculator in action**
+
+![image](https://github.com/sridan/FinanceCalculator/assets/154027925/55ddac39-54a4-4fe6-9e06-990b5d854750)
+
+
+
+
+
 **Credits:**
 This project was created by Srilaxmi Danthuluri.
 Feel free to reach out to my email for any questions or feedback related to the project.
